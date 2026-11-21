@@ -4,7 +4,7 @@ Installers for **Virtual Labs**, a desktop app for running virtual machines
 from ISO files, Docker containers, and screen connections to other computers
 on your network.
 
-**→ [Download the latest release](https://github.com/Gridlockes/Virtual-Labs/releases/latest)**
+**→ [Download the latest release](https://github.com/Gridlantis/Virtual-Labs/releases/latest)**
 
 Or straight from the site, which always points at the current release:
 
